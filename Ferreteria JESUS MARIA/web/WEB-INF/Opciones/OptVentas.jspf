@@ -1,0 +1,36 @@
+<aside class="app-sidebar ">
+    <div class="sidebar-img">
+        <a class="navbar-brand" href="index-2.html"><img alt="..." class="navbar-brand-img main-logo" src="assets/img/brand/logo-dark.png"></a>
+        <ul class="side-menu">
+            <li class="slide">
+                <a class="side-menu__item" data-toggle="slide" href="#paso1"><i class="side-menu__icon fe fe-map"></i><span class="side-menu__label">Productos</span><i class="angle fa fa-angle-right"></i></a>
+            </li>
+
+            <li class="slide">
+                <a class="side-menu__item" data-toggle="slide" href="#paso2"><i class="side-menu__icon fe fe-user"></i><span class="side-menu__label">Cliente Nuevo</span><i class="angle fa fa-angle-right"></i></a>
+            </li>
+
+            <li class="slide">
+                <a class="side-menu__item" data-toggle="slide" href="#paso3"><i class="side-menu__icon fe fe-edit"></i><span class="side-menu__label">Transacción</span><i class="angle fa fa-angle-right"></i></a>
+                <ul class="slide-menu">
+                    <li>
+                        <a class="slide-item" href="index-2.html">Boleta</a>
+                    </li>
+                    <li>
+                        <a class="slide-item" href="dashboard-social.html">Factura</a>
+                    </li>
+                         <li>
+                        <a class="slide-item" href="dashboard-social.html">Cotización</a>
+                    </li>
+                </ul>
+            </li>
+
+            <li class="slide">
+                <a class="side-menu__item" data-toggle="slide" href="#"><i class="side-menu__icon fe fe-shopping-cart"></i><span class="side-menu__label">Productos Elegidos</span><i class="angle fa fa-angle-right"></i></a>
+            </li>
+            <li class="slide">
+                <a class="side-menu__item active" data-toggle="slide" href="#"><i class="side-menu__icon fe fe-home"></i><span class="side-menu__label">Dashboard</span><i class="angle fa fa-angle-right"></i></a>
+            </li>
+        </ul>
+    </div>
+</aside>
